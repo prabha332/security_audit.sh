@@ -12,7 +12,7 @@ LOGFILE="/tmp/security_audit.log"
 
 TWILIO_SID="your_account_sid"
 TWILIO_TOKEN="your_auth_token"
-TWILIO_FROM="whatsapp:+14155238886"
+TWILIO_FROM="whatsapp:+XXXXXXXXXXX"
 TWILIO_TO="whatsapp:+91XXXXXXXXXX"
 
 ALERTS=""
